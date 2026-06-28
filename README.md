@@ -2,11 +2,6 @@
 <h1 align="center">Omicron</h1>
 <p align="center">
 
-![Kotlin](https://img.shields.io/badge/Kotlin-100%25-blue?logo=kotlin)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Ready-4285F4?logo=android)
-![Material Design 3](https://img.shields.io/badge/Material%20Design-3-pink?logo=materialdesign)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 </p>
 
 > Modern Android Media Downloader powered by `yt-dlp` & `aria2c`
@@ -122,11 +117,6 @@ Follow us on:
 <h1 align="center">Omicron</h1>
 <p align="center">
 </p>
-
-![Kotlin](https://img.shields.io/badge/Kotlin-100%25-blue?logo=kotlin)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Ready-4285F4?logo=android)
-![Material Design 3](https://img.shields.io/badge/Material%20Design-3-pink?logo=materialdesign)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 </p>
 
