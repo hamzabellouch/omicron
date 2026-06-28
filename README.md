@@ -4,10 +4,10 @@
 
 </p>
 
-> Modern Android Media Downloader powered by `yt-dlp` & `aria2c`
+> Modern Android Media Downloader powered by `yt-dlp` & `gallery-dl`
 
 <div align="center">
-  <img src="https://github.com/hamzabellouch/Omicron/blob/68cf29c17e1849e20f02d4f7871923bac25cf842/Images/Omicron.png" width="800"/>
+  <img src="https://github.com/hamzabellouch/omicron/blob/68cf29c17e1849e20f02d4f7871923bac25cf842/Images/Omicron.png" width="800"/>
 </div>
 
 ### <a name="About"></a> 📖 About
@@ -88,7 +88,7 @@ To build Omicron locally, make sure you have the latest version of Android Studi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/hamzabellouch/Omicron.git
+git clone https://github.com/hamzabellouch/omicron.git
 ```
 
 2. Open the project in Android Studio.
@@ -123,13 +123,13 @@ Follow us on:
 > تطبيق أندرويد حديث لتحميل الوسائط باستخدام `yt-dlp` و `aria2c`
 
 <div align="center">
-  <img src="https://github.com/hamzabellouch/Omicron/blob/68cf29c17e1849e20f02d4f7871923bac25cf842/Images/Omicron.png" width="800"/>
+  <img src="https://github.com/hamzabellouch/omicron/blob/68cf29c17e1849e20f02d4f7871923bac25cf842/Images/Omicron.png" width="800"/>
 </div>
 
 ### <a name="حول"></a> 📖 حول التطبيق
 
 > **Omicron** هو تطبيق قوي وسهل الاستخدام لتحميل الوسائط على نظام أندرويد.  
-يعتمد على `yt-dlp` و `aria2c` لتحميل الفيديوهات والملفات الصوتية وقوائم التشغيل الكاملة من مئات المنصات المدعومة، مع توفير تحكم كامل في البيانات الوصفية والترجمة والأوامر المخصصة.
+يعتمد على `yt-dlp` و `gallery-dl` لتحميل الفيديوهات والملفات الصوتية وقوائم التشغيل الكاملة من مئات المنصات المدعومة، مع توفير تحكم كامل في البيانات الوصفية والترجمة والأوامر المخصصة.
 
 تم تطوير التطبيق باستخدام أحدث تقنيات أندرويد مع الالتزام بمبادئ **Modern Android Development (MAD)** لضمان الأداء والاستقرار وتجربة استخدام حديثة.
 
@@ -189,7 +189,7 @@ Follow us on:
 > غير متوفر حاليًا
 
 ```bash
-git clone https://github.com/hamzabellouch/Omicron.git
+git clone https://github.com/hamzabellouch/omicron.git
 ```
 
 ### <a name="حقوق"></a> حقوق الطبع والنشر © 2026
