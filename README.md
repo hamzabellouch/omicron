@@ -97,19 +97,18 @@ git clone https://github.com/hamzabellouch/omicron.git
 
 4. Build and run the application on your device or emulator.
 
-### <a name="Copyright"></a> Copyright © 2026
+> [!WARNING]
+> There is always a possibility of error, so we assume no responsibility for any inaccuracies.
 
-> Thank you for checking out Omicron.  
-If you have any feedback or suggestions, feel free to contact us:
 
+### <a name="Copyright©2026"></a> Copyright © 2026
+
+Thank you for checking out Omicron. If you have any feedback or suggestions, feel free to contact us:
 hamzabellouchcontact@gmail.com
 
-Follow us on:
+Stay connected and follow us on:  
+[Facebook](https://facebook.com/hamzabellouch1) | [Instagram](https://instagram.com/hamzabellouch0) | [Twitter](https://twitter.com/hamzabellouch0) | [Telegram](https://t.me/hammzabellouch) | [LinkedIn](https://www.linkedin.com/in/hamzabellouch)
 
-<a href="https://facebook.com/hamzabellouch1">Facebook</a>,
-<a href="https://instagram.com/hamzabellouch0">Instagram</a>,
-<a href="https://twitter.com/hamzabellouch0">Twitter</a>,
-<a href="https://t.me/hamzabellouch">Telegram</a>
 
 <div dir="rtl">
 
@@ -192,18 +191,16 @@ Follow us on:
 git clone https://github.com/hamzabellouch/omicron.git
 ```
 
-### <a name="حقوق"></a> حقوق الطبع والنشر © 2026
 
-> شكرًا لاستخدامكم Omicron  
-إذا كانت لديكم أي اقتراحات أو ملاحظات، يمكنكم التواصل معنا عبر:
+> [!WARNING]
+> يوجد دائمًا احتمال لوجود أخطاء، لذلك فإننا لا نتحمل أي مسؤولية عن أي أخطاء أو معلومات غير دقيقة.
 
+### <a name="Copyright©2026"></a> حقوق النشر © 2026
+
+شكرًا لك على الاطلاع على **Omicron**. إذا كانت لديك أي ملاحظات أو اقتراحات، فلا تتردد في التواصل معنا عبر:
 hamzabellouchcontact@gmail.com
 
-تابعونا على:
-
-<a href="https://facebook.com/hamzabellouch1">Facebook</a>,
-<a href="https://instagram.com/hamzabellouch0">Instagram</a>,
-<a href="https://twitter.com/hamzabellouch0">Twitter</a>,
-<a href="https://t.me/hamzabellouch">Telegram</a>
+ابقَ على تواصل معنا عبر:
+[فيسبوك](https://facebook.com/hamzabellouch1) | [إنستغرام](https://instagram.com/hamzabellouch0) | [إكس (تويتر سابقًا)](https://twitter.com/hamzabellouch0) | [تيليجرام](https://t.me/hammzabellouch) | [لينكدإن](https://www.linkedin.com/in/hamzabellouch)
 
 </div>
