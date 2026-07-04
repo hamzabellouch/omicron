@@ -119,7 +119,7 @@ Stay connected and follow us on:
 
 </p>
 
-> تطبيق أندرويد حديث لتحميل الوسائط باستخدام `yt-dlp` و `aria2c`
+> تطبيق أندرويد حديث لتحميل الوسائط باستخدام `yt-dlp` و `gallery-dl`
 
 <div align="center">
   <img src="https://github.com/hamzabellouch/omicron/blob/68cf29c17e1849e20f02d4f7871923bac25cf842/Images/Omicron.png" width="800"/>
