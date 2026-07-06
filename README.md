@@ -61,7 +61,7 @@ Omicron follows modern Android architecture principles for better maintainabilit
 ### <a name="Installation"></a> 🔥 Installation
 
 1. Go to the Releases page:
-   https://github.com/hamzabellouch/Omicron/releases
+   https://github.com/hamzabellouch/omicron/releases
 
 2. Download the latest `.apk` file.
 
