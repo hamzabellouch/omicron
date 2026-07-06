@@ -31,7 +31,14 @@ The application focuses on simplicity, speed, and flexibility, making it suitabl
 
 ### <a name="Features"></a> ⭐ Features
 
-#
+| Platform | Engine Used | Video Support | Audio Extraction | Image Support | Metadata Processing Speed | Download Speed |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **YouTube** | `yt-dlp` | Full (up to 8K, HDR, 60fps) | Full (Extracted & encoded via FFmpeg) | Thumbnail extraction only | **Slow** (~60s) | **Throttled / High-Speed** (Bypassed by yt-dlp; accelerated via `aria2c`) |
+| **Instagram** | `yt-dlp` & `gallery-dl` | Full (Reels, Stories, IGTV, Posts) | Supported (from video posts/reels) | Full (Carousels, posts, profile pics via gallery-dl) | **Moderate** (~20s) due to Meta rate-limiting | **High-Speed** (Strict IP rate-limiting applied by Meta) |
+| **Facebook** | `yt-dlp` | Full (Watch, Reels, Page videos) | Supported | N/A | **Moderate** (~20s) | **Moderate to High-Speed** |
+| **TikTok** | `yt-dlp` | Full (Watermark removal option) | Supported | Full (Photo-slideshow posts) | **Fast** (~10s) | **Very High-Speed** (Uses edge CDNs) |
+| **X (Twitter)** | `yt-dlp` & `gallery-dl` | Full (All public video posts) | Supported | Full (Attached images via gallery-dl) | **Moderate** (~20s) | **High-Speed** |
+| **Reddit** | `yt-dlp` & `gallery-dl` | Full (Muxed audio/video via FFmpeg) | Supported | Full (Image galleries, single images) | **Moderate** (~20s) | **High-Speed** |
 
 ### <a name="TechStack"></a> 🛠 Tech Stack & Architecture
 
