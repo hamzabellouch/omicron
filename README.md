@@ -37,13 +37,19 @@ The application focuses on simplicity, speed, and flexibility, making it suitabl
 
 Omicron follows modern Android architecture principles for better maintainability and performance.
 
-- **100% Kotlin**
-- **Jetpack Compose**
-- **Single Activity Architecture**
-- **Material Design 3**
-- **yt-dlp**
-- **aria2c**
-- **mutagen**
+* **100% Kotlin** & **Coroutines / Flow**
+* **Jetpack Compose**
+* **Single Activity Architecture**
+* **Material Design 3** & **Dynamic Colors (Material You)**
+* **Koin** (Dependency Injection)
+* **Room Database** (Local Storage)
+* **MMKV** (Fast Key-Value Storage)
+* **Core Engines**:
+  * **yt-dlp** (Video/Audio Downloader)
+  * **gallery-dl** (Image/Gallery Downloader)
+  * **aria2c** (Multi-connection download accelerator)
+  * **FFmpeg** (Post-processing & muxing)
+* **Coil** (Image Loading)
 
 ### <a name="Installation"></a> 🔥 Installation
 
