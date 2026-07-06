@@ -4,7 +4,7 @@
 
 </p>
 
-> Modern Android Media Downloader powered by `yt-dlp` & `gallery-dl`
+Modern Android Media Downloader powered by `yt-dlp` & `gallery-dl`
 
 <div align="center">
   <img src="https://github.com/hamzabellouch/omicron/blob/68cf29c17e1849e20f02d4f7871923bac25cf842/Images/Omicron.png" width="800"/>
@@ -12,8 +12,8 @@
 
 ### <a name="About"></a> 📖 About
 
-> **Omicron** is a powerful, user-friendly, and beautifully designed media downloader for Android.  
-Powered by `yt-dlp` and `aria2c`, it allows users to download videos, audio files, and entire playlists from hundreds of supported platforms while offering complete control over subtitles, metadata, and custom commands.
+**Omicron** is a powerful, user-friendly, and beautifully designed media downloader for Android.  
+Powered by `yt-dlp` and `gallery-dl`, it allows users to download videos, audio files, and entire playlists from hundreds of supported platforms while offering complete control over subtitles, metadata, and custom commands.
 
 Omicron is built using modern Android technologies and follows the principles of **Modern Android Development (MAD)** to ensure performance, stability, and a clean user experience.
 
@@ -31,29 +31,7 @@ The application focuses on simplicity, speed, and flexibility, making it suitabl
 
 ### <a name="Features"></a> ⭐ Features
 
-1. **Broad Platform Support**  
-   Download videos and audio from platforms supported by `yt-dlp`.
-
-2. **Rich Audio Metadata**  
-   Automatically embed metadata and thumbnails into extracted audio files using `mutagen`.
-
-3. **Playlist Downloading**  
-   Download complete playlists with a single click.
-
-4. **Accelerated Downloads**  
-   Uses embedded `aria2c` for multi-connection high-speed downloads.
-
-5. **Subtitle Integration**  
-   Download and embed subtitles directly into video files.
-
-6. **Custom Commands**  
-   Execute advanced `yt-dlp` commands and save them as reusable templates.
-
-7. **Built-in Download Manager**  
-   Easily manage downloads and saved command presets inside the application.
-
-8. **Modern UI Design**  
-   Clean Material Design 3 interface with dynamic color theming support.
+#
 
 ### <a name="TechStack"></a> 🛠 Tech Stack & Architecture
 
