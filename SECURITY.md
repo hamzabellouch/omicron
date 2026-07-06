@@ -6,9 +6,9 @@ The following versions of Omicron are currently supported with security and stab
 
 | Version       | Supported          |
 | -------------- | ------------------ |
-| 0.1.4-beta     | :white_check_mark: |
-| + 0.1.0-beta   | :white_check_mark: |
-| < 0.1.0-beta   | :x:                |
+| 0.2.1-beta     | :white_check_mark: |
+| + 0.2.0-beta   | :white_check_mark: |
+| < 0.2.0-beta   | :x:                |
 
 ---
 
