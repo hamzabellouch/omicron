@@ -31,7 +31,7 @@ The application focuses on simplicity, speed, and flexibility, making it suitabl
 
 ### <a name="Features"></a> ⭐ Features - Supported +1000 platform
 
-> Examples of popular platforms :
+Examples of popular platforms :
 
 | Platform | Engine Used | Video Support | Audio Extraction | Image Support | Metadata Processing Speed | Download Speed |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
