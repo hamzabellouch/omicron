@@ -29,7 +29,9 @@ The application focuses on simplicity, speed, and flexibility, making it suitabl
   <img src="https://via.placeholder.com/250x500.png?text=Settings" width="200"/>
 </div>
 
-### <a name="Features"></a> ⭐ Features
+### <a name="Features"></a> ⭐ Features - Supported +1000 platform
+
+> Examples of popular platforms :
 
 | Platform | Engine Used | Video Support | Audio Extraction | Image Support | Metadata Processing Speed | Download Speed |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
