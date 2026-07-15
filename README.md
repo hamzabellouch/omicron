@@ -61,19 +61,19 @@ Examples of popular platforms :
 
 Omicron follows modern Android architecture principles for better maintainability and performance.
 
-* **100% Kotlin** & **Coroutines / Flow**
-* **Jetpack Compose**
-* **Single Activity Architecture**
-* **Material Design 3** & **Dynamic Colors (Material You)**
-* **Koin** (Dependency Injection)
-* **Room Database** (Local Storage)
-* **MMKV** (Fast Key-Value Storage)
-* **Core Engines**:
-  * **yt-dlp** (Video/Audio Downloader)
-  * **gallery-dl** (Image/Gallery Downloader)
-  * **aria2c** (Multi-connection download accelerator)
-  * **FFmpeg** (Post-processing & muxing)
-* **Coil** (Image Loading)
+* `100% Kotlin & Coroutines / Flow`
+* `Jetpack Compose`
+* `Single Activity Architecture`
+* `Material Design 3` & `Dynamic Colors` (Material You)
+* `Koin` (Dependency Injection)
+* `Room Database` (Local Storage)
+* `MMKV` (Fast Key-Value Storage)
+* Core Engines:
+  * `yt-dlp` (Video/Audio Downloader)
+  * `gallery-dl` (Image/Gallery Downloader)
+  * `aria2c` (Multi-connection download accelerator)
+  * `FFmpeg` (Post-processing & muxing)
+* `Coil` (Image Loading)
 
 ### <a name="Installation"></a> 🔥 Installation
 
@@ -84,8 +84,7 @@ Omicron follows modern Android architecture principles for better maintainabilit
 
 3. Install the application on your Android device.
 
-4. Make sure that:
-   > "Install from unknown sources" is enabled in your Android settings.
+4. Make sure that: `Install from unknown sources` is enabled in your Android settings.
 
 ### <a name="Build"></a> 🔨 Building from Source
 
