@@ -69,10 +69,10 @@ Omicron follows modern Android architecture principles for better maintainabilit
 * `Room Database` (Local Storage)
 * `MMKV` (Fast Key-Value Storage)
 * Core Engines:
-  * `yt-dlp` (Video/Audio Downloader)
-  * `gallery-dl` (Image/Gallery Downloader)
-  * `aria2c` (Multi-connection download accelerator)
-  * `FFmpeg` (Post-processing & muxing)
+  - `yt-dlp` (Video/Audio Downloader)
+  - `gallery-dl` (Image/Gallery Downloader)
+  - `aria2c` (Multi-connection download accelerator)
+  - `FFmpeg` (Post-processing & muxing)
 * `Coil` (Image Loading)
 
 ### <a name="Installation"></a> 🔥 Installation
@@ -86,23 +86,15 @@ Omicron follows modern Android architecture principles for better maintainabilit
 
 4. Make sure that: `Install from unknown sources` is enabled in your Android settings.
 
-### <a name="Build"></a> 🔨 Building from Source
+### <a name="Build"></a> 🔨 Building from Source - Not available yet
 
-> Not available yet
 
-To build Omicron locally, make sure you have the latest version of Android Studio installed.
+>To build Omicron locally, make sure you have the latest version of Android Studio installed.
+>1. Clone the repository: `git clone https://github.com/hamzabellouch/omicron.git`
+>2. Open the project in Android Studio.
+>3. Sync Gradle dependencies.
+>4. Build and run the application on your device or emulator.
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/hamzabellouch/omicron.git
-```
-
-2. Open the project in Android Studio.
-
-3. Sync Gradle dependencies.
-
-4. Build and run the application on your device or emulator.
 
 > [!WARNING]
 > There is always a possibility of error, so we assume no responsibility for any inaccuracies.
