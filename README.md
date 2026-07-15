@@ -21,13 +21,28 @@ The application focuses on simplicity, speed, and flexibility, making it suitabl
 
 ### <a name="Screenshots"></a> 📸 Screenshots
 
-> Not available yet
+Omicron UI & Features :
 
 <div align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=Home+Screen" width="200"/>
-  <img src="https://via.placeholder.com/250x500.png?text=Download+Manager" width="200"/>
-  <img src="https://via.placeholder.com/250x500.png?text=Settings" width="200"/>
+<div>
+<img src="https://github.com/hamzabellouch/omicron/blob/main/Images/Home.jpg" width="30%" />
+<img src="https://github.com/hamzabellouch/omicron/blob/main/Images/Downloads.jpg" width="30%" />
+<img src="https://github.com/hamzabellouch/omicron/blob/main/Images/Profile.jpg" width="30%" />
+<img src="https://github.com/hamzabellouch/omicron/blob/main/Images/Settings.jpg" width="30%" />
+<img src="https://github.com/hamzabellouch/omicron/blob/main/Images/General.jpg" width="30%" />
+<img src="https://github.com/hamzabellouch/omicron/blob/main/Images/Download%20directory.jpg" width="30%" />
+<img src="https://github.com/hamzabellouch/omicron/blob/main/Images/Format.jpg" width="30%" />
+<img src="https://github.com/hamzabellouch/omicron/blob/main/Images/Network.jpg" width="30%" />
+<img src="https://github.com/hamzabellouch/omicron/blob/main/Images/Custom%20command.jpg" width="30%" />
+<img src="https://github.com/hamzabellouch/omicron/blob/main/Images/Look%20%26%20feel.jpg" width="30%" />
+<img src="https://github.com/hamzabellouch/omicron/blob/main/Images/Interface%20%26%20interaction.jpg" width="30%" />
+<img src="https://github.com/hamzabellouch/omicron/blob/main/Images/Running%20tasks.jpg" width="30%" />
+<img src="https://github.com/hamzabellouch/omicron/blob/main/Images/Auto%20update.jpg" width="30%" />
+<img src="https://github.com/hamzabellouch/omicron/blob/main/Images/About.jpg" width="30%" />
 </div>
+</div>
+
+<br>
 
 ### <a name="Features"></a> ⭐ Features - Supported +1000 platform
 
