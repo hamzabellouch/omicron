@@ -86,20 +86,14 @@ Omicron follows modern Android architecture principles for better maintainabilit
 
 4. Make sure that: `Install from unknown sources` is enabled in your Android settings.
 
-## 🔨 Building from Source - Available
+## 🔨 Building from Source - Not available yet
 
-To build Omicron locally, make sure you have the latest version of Android Studio and JDK 21 installed.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/hamzabellouch/omicron.git
-   ```
-2. Open the project in Android Studio.
-3. Sync Gradle dependencies.
-4. Build and run the application on your device or emulator:
-   ```bash
-   ./gradlew assembleGenericDebug
-   ```
+>To build Omicron locally, make sure you have the latest version of Android Studio installed.
+>1. Clone the repository: `git clone https://github.com/hamzabellouch/omicron.git`
+>2. Open the project in Android Studio.
+>3. Sync Gradle dependencies.
+>4. Build and run the application on your device or emulator.
 
 > [!WARNING]
 > There is always a possibility of error, so we assume no responsibility for any inaccuracies.
