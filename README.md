@@ -24,7 +24,9 @@ Omicron UI & Features :
 <div align="center">
   <img src="Images/Home.jpg" width="30%" />
   <img src="Images/Downloads.jpg" width="30%" />
+  <img src="Images/Status.jpg" width="30%" />
   <img src="Images/Profile.jpg" width="30%" />
+  <img src="Images/Running%20tasks.jpg" width="30%" />
   <img src="Images/Settings.jpg" width="30%" />
   <img src="Images/General.jpg" width="30%" />
   <img src="Images/Download%20directory.jpg" width="30%" />
@@ -33,9 +35,10 @@ Omicron UI & Features :
   <img src="Images/Custom%20command.jpg" width="30%" />
   <img src="Images/Look%20%26%20feel.jpg" width="30%" />
   <img src="Images/Interface%20%26%20interaction.jpg" width="30%" />
-  <img src="Images/Running%20tasks.jpg" width="30%" />
-  <img src="Images/Auto%20update.jpg" width="30%" />
+  <img src="Images/Sponsors.jpg" width="30%" />
+  <img src="Images/Troubleshooting.jpg" width="30%" />
   <img src="Images/About.jpg" width="30%" />
+  <img src="Images/Auto%20update.jpg" width="30%" />
 </div>
 
 <br>
